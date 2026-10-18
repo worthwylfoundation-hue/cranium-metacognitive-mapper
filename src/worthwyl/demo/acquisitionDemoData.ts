@@ -19,7 +19,7 @@ export const DEMO_CHAPTERS: DemoChapter[] = [
     act: "Act I",
     title: "The Creative Bottleneck & The Behavioral Contract",
     durationSec: 18,
-    narratorVoiceText: "Welcome to WorthWyl Creative OS. Today's creative tools treat artificial intelligence as a disposable chat generator. In long-running projects, models drift, character arcs collapse, and creative intent is diluted. WorthWyl introduces Convertible Cranium Core, the world's first directive-governed cognitive substrate that treats canon, identity, and intent as first-class constraints.",
+    narratorVoiceText: "Welcome to Convertible Cranium Justice OS. This development-stage demonstration explores how user-provided observations, provisional hypotheses, and governed authority can remain distinct. The Mapper is educational and does not diagnose people or grant authority.",
     captions: [
       "Current generative tools suffer from canon amnesia and narrative drift.",
       "Convertible Cranium Core establishes an immutable behavioral contract between author and machine.",
@@ -73,16 +73,16 @@ export const DEMO_CHAPTERS: DemoChapter[] = [
     act: "Act IV",
     title: "The Metacognitive Tracker: Self-Awareness for Creators",
     durationSec: 22,
-    narratorVoiceText: "The creator is the soul of the machine. The Metacognitive Tracker is a private self-awareness instrument built into the OS. It allows creators to log moments of hesitation, self-shrinking, overexplaining, or retreat in under sixty seconds. The pattern engine synthesizes these logs into plain-language truths, revealing where fear distorts decision-making.",
+    narratorVoiceText: "The Metacognitive Tracker is an educational reflection tool. It lets users record their own observations and review tentative patterns. The mapper generates hypotheses for the user to confirm or reject; it does not diagnose, prescribe treatment, or claim certainty about motives.",
     captions: [
       "60-second structured capture: situation, trigger, thought, assumption, and outcome.",
-      "Audits self-shrinking, overexplaining, and emotional retreat in high-stakes creative moments.",
-      "Weekly review engine surfaces recurring blind spots and prescribes testable experiments."
+      "Lets users review self-reported observations and tentative patterns.",
+      "Review prompts can help users decide which observations to explore next; no treatment or diagnostic claim is made."
     ],
     keyHighlights: [
-      { metric: "38%", label: "Shrinking Detection", description: "Identifies behavioral regressions during high-status stakeholder meetings." },
-      { metric: "60-Second", label: "Zero-Friction Logging", description: "Instant capture card engineered for busy founders and artists." },
-      { metric: "Testable Micro-Action", label: "Behavioral Growth", description: "Transforms messy creative doubts into clear, disciplined conviction." }
+      { metric: "User-reviewed", label: "Reflection hypotheses", description: "Patterns remain provisional until the user reviews them." },
+      { metric: "Manual", label: "User-entered observations", description: "Users choose what to record and what to keep." },
+      { metric: "Optional", label: "Next-step reflection", description: "The user decides whether any proposed next step is useful." }
     ],
     visualMode: "metacognitive"
   },
@@ -91,16 +91,16 @@ export const DEMO_CHAPTERS: DemoChapter[] = [
     act: "Act V",
     title: "Enterprise Architecture & Acquisition Diligence",
     durationSec: 20,
-    narratorVoiceText: "WorthWyl Creative OS is engineered as an enterprise-grade microservice constellation. Designed for Azure Kubernetes Service, it integrates Istio service mesh, Redis caching, and AES-256 encrypted Miracle Archive storage. With zero debt and verifiable behavioral contracts, it represents an acquisition-ready strategic bridge for Microsoft Copilot and Azure AI.",
+    narratorVoiceText: "This screen is an architecture concept only. It does not establish a deployed Azure/Kubernetes/Istio environment, Redis service, encrypted archive, clean chain of title, zero technical debt, or acquisition readiness. Those claims require separate implementation evidence and diligence.",
     captions: [
-      "Microservice topology built for Azure Kubernetes Service with Istio service mesh.",
-      "Encrypted Miracle Archive preserving generational creative assets with AES-256.",
-      "Clean IP, honest diligence validation, and turnkey integration into Microsoft's ecosystem."
+      "Illustrative target topology only; no deployment is claimed.",
+      "Archive encryption and key custody are not established by this demo.",
+      "Chain of title, independent audit, and external integrations require separate evidence.",
     ],
     keyHighlights: [
-      { metric: "AKS Ready", label: "Enterprise Topology", description: "Isolated namespaces for Core, Media, Studio, and Legacy." },
-      { metric: "AES-256", label: "Miracle Archive", description: "Generational encrypted storage with immutable provenance." },
-      { metric: "Category 1st", label: "Creative OS Moat", description: "Positions acquirer to lead creative cognition rather than commodity chatbots." }
+      { metric: "Target only", label: "Enterprise Topology", description: "Deployment has not been validated." },
+      { metric: "Not verified", label: "Miracle Archive", description: "Encryption, durable storage, and immutable provenance are not claimed by this demo." },
+      { metric: "Under development", label: "Governance concept", description: "No market-leading or category-first claim is made." }
     ],
     visualMode: "architecture"
   }

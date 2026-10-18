@@ -1,6 +1,6 @@
 # Cranium Command OS Integration
 
-Convertible Cranium Operator OS is a first-class Cranium Command OS product surface. It may be distributed as a standalone-capable application, but it is not an independent authority system.
+Convertible Cranium Metacognitive Mapper is an educational reflection and cognitive-mapping component within Convertible Cranium Justice OS. It may be distributed as a standalone-capable demonstration, but it is not an independent authority system.
 
 ## Product responsibility
 

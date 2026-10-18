@@ -1,7 +1,10 @@
 {
-  "name": "WorthWyl Creative OS",
-  "description": "A cognitive operating system for creators, uniting Convertible Cranium Core intelligence, multi-track studio timeline, media rendering, and generational Miracle Archive.",
-  "requestFramePermissions": ["microphone"],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "name": "Convertible Cranium Metacognitive Mapper",
+  "description": "Development-stage educational reflection and cognitive-mapping component within the Convertible Cranium ecosystem. It generates hypotheses from user-provided observations and is not a clinical diagnostic tool.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
-

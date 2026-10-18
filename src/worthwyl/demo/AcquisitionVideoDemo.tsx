@@ -389,8 +389,8 @@ export default function AcquisitionVideoDemo({ onNavigateToModule }: Props) {
 
                     <div>
                       <div className="flex justify-between text-xs mb-1 text-neutral-300">
-                        <span>Shrank Self (Diminished Stature)</span>
-                        <span className="font-mono text-red-400">33%</span>
+                        <span>Example reflection category (illustrative)</span>
+                        <span className="font-mono text-amber-300">DEMO</span>
                       </div>
                       <div className="h-2 w-full bg-neutral-800 rounded-full overflow-hidden">
                         <div className="h-full bg-red-500 rounded-full" style={{ width: '33%' }}></div>
@@ -411,37 +411,37 @@ export default function AcquisitionVideoDemo({ onNavigateToModule }: Props) {
                 <div className="lg:col-span-6 space-y-3">
                   <div className="inline-flex items-center gap-2 px-3 py-1 rounded-lg bg-indigo-500/10 border border-indigo-500/20 text-indigo-300 text-xs font-mono">
                     <Server className="w-3.5 h-3.5" />
-                    ACQUISITION & PLATFORM READINESS
+                    ARCHITECTURE CONCEPT — NOT DEPLOYED
                   </div>
                   <h3 className="text-2xl md:text-3xl font-bold text-white tracking-tight">
-                    Microsoft Azure Deployment Architecture
+                    Illustrative deployment target
                   </h3>
                   <p className="text-xs md:text-sm text-neutral-300 leading-relaxed">
-                    Engineered to drop straight into Azure Kubernetes Service (AKS) with Istio service mesh, Redis caching, and Azure Cognitive Search.
+                    This is a target-state illustration only. No Azure, AKS, Istio, Redis, or Azure Cognitive Search deployment or integration is claimed.
                   </p>
 
                   <div className="grid grid-cols-2 gap-2 text-xs">
                     <div className="p-3 rounded-xl bg-neutral-900 border border-neutral-800">
                       <div className="font-semibold text-neutral-200">Microservice Mesh</div>
-                      <div className="text-[11px] text-neutral-400">Istio mTLS, traffic shaping, distributed tracing</div>
+                      <div className="text-[11px] text-neutral-400">Target-state concept; deployment not verified</div>
                     </div>
                     <div className="p-3 rounded-xl bg-neutral-900 border border-neutral-800">
                       <div className="font-semibold text-neutral-200">Miracle Archive</div>
-                      <div className="text-[11px] text-neutral-400">AES-256 encrypted generational storage</div>
+                      <div className="text-[11px] text-neutral-400">Archive concept; encryption not verified</div>
                     </div>
                     <div className="p-3 rounded-xl bg-neutral-900 border border-neutral-800">
-                      <div className="font-semibold text-neutral-200">Clean IP & Chain of Title</div>
-                      <div className="text-[11px] text-neutral-400">Zero third-party proprietary dependencies</div>
+                      <div className="font-semibold text-neutral-200">Chain of Title Review Required</div>
+                      <div className="text-[11px] text-neutral-400">Dependency/license review required</div>
                     </div>
                     <div className="p-3 rounded-xl bg-neutral-900 border border-neutral-800">
-                      <div className="font-semibold text-neutral-200">Copilot / Surface Ready</div>
-                      <div className="text-[11px] text-neutral-400">Turnkey category expansion for Windows & Azure</div>
+                      <div className="font-semibold text-neutral-200">External Integrations Not Verified</div>
+                      <div className="text-[11px] text-neutral-400">No turnkey or compatibility claim</div>
                     </div>
                   </div>
                 </div>
 
                 <div className="lg:col-span-6 bg-neutral-900/90 p-5 rounded-2xl border border-neutral-800 space-y-3">
-                  <div className="text-xs font-mono text-neutral-400 uppercase tracking-wider">Cluster Topology (K8s)</div>
+                  <div className="text-xs font-mono text-neutral-400 uppercase tracking-wider">Illustrative topology (not deployed)</div>
                   <div className="p-3 rounded-xl bg-neutral-950 font-mono text-xs text-neutral-300 space-y-1.5 border border-neutral-800">
                     <div className="text-amber-400 font-bold">Azure Front Door &rarr; API Gateway</div>
                     <div className="text-neutral-500 text-[11px] pl-2">├── /api/core/* &rarr; worthwyl-core (Cranium Engine)</div>
