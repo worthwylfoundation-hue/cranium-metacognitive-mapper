@@ -4,4 +4,4 @@ Supporting, non-authoritative metacognitive mapping and creative-intelligence su
 
 The Mapper can propose interpretations and package context; it cannot grant authority or replace the private Kernel authority plane.
 
-See also: [ECOSYSTEM.md](./ECOSYSTEM.md) · [LICENSE](./LICENSE)
+See also: [ECOSYSTEM.md](./ECOSYSTEM.md) · [LICENSE-DECISION.md](./LICENSE-DECISION.md), which records the current licensing decision status.
