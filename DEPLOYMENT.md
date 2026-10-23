@@ -1,14 +1,14 @@
-# Convertible Cranium Operator OS deployment
+# Convertible Cranium Metacognitive Mapper deployment
 
-This repository deploys the **WorthWyl Creative OS / Convertible Cranium Operator OS** as a browser application through the `Deploy Convertible Cranium Operator OS` GitHub Actions workflow.
+This repository deploys the **Convertible Cranium Metacognitive Mapper** as a browser application through the `Deploy Convertible Cranium Metacognitive Mapper` GitHub Actions workflow.
 
-The **Convertible Cranium Operator OS** is a first-class module within the same application. After deployment, open it directly with the hash route:
+The **Metacognitive Mapper** is a component within the Convertible Cranium ecosystem. After deployment, open it directly with the hash route:
 
 ```text
 https://worthwyl2022-cloud.github.io/cranium-operator-os/#metacognition
 ```
 
-The default application entry point is:
+The default application entry point (repository slug may still reflect historical naming) is:
 
 ```text
 https://worthwyl2022-cloud.github.io/cranium-operator-os/

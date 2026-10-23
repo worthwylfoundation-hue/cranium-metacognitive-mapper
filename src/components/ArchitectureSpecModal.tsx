@@ -20,11 +20,11 @@ export default function ArchitectureSpecModal({ isOpen, onClose }: Props) {
             <div className="flex items-center gap-2">
               <Server className="w-5 h-5 text-blue-600" />
               <h2 className="text-base font-bold text-neutral-900">
-                WorthWyl Creative OS — Technical Architecture & Acquisition Spec
+                Convertible Cranium Metacognitive Mapper — Architecture & Diligence Notes
               </h2>
             </div>
             <p className="text-xs text-neutral-500 mt-0.5 font-mono">
-              Target Infrastructure: Microsoft Azure Cloud Platform (AKS + Istio + KeyVault)
+              Deployment targets are conceptual only; no Azure/AKS/Istio/Key Vault deployment is claimed.
             </p>
           </div>
           <button
@@ -68,7 +68,7 @@ export default function ArchitectureSpecModal({ isOpen, onClose }: Props) {
                   Unified Creative OS Paradigm
                 </h3>
                 <p className="text-xs text-blue-800 leading-relaxed">
-                  Unlike fragmented creator utilities (DAWs, word processors, video editors), WorthWyl Creative OS
+                  Unlike fragmented creator utilities (DAWs, word processors, video editors), Convertible Cranium Metacognitive Mapper
                   integrates cognitive feedback, media rendering, and generational storage into an orchestrated microservice constellation.
                 </p>
               </div>
@@ -110,7 +110,7 @@ export default function ArchitectureSpecModal({ isOpen, onClose }: Props) {
                     4. Generational Miracle Archive
                   </div>
                   <p className="text-xs text-neutral-600 leading-relaxed">
-                    Durable generational storage using AES-256 double envelope encryption in Azure KeyVault, time-capsule date locks, and immutable manifest hashes.
+                    Durable generational storage using Illustrative archive concept only; encryption, key custody, time-lock enforcement, and immutable manifests are not established here.
                   </p>
                 </div>
               </div>
@@ -161,7 +161,7 @@ export default function ArchitectureSpecModal({ isOpen, onClose }: Props) {
           {activeTab === 'k8s' && (
             <div className="space-y-4">
               <h3 className="text-xs font-bold uppercase tracking-wider text-neutral-800">
-                Kubernetes (AKS) Cluster Topology
+                Illustrative target topology (not deployed)
               </h3>
               <div className="grid grid-cols-2 sm:grid-cols-3 gap-3 text-xs">
                 <div className="p-3 bg-neutral-50 rounded-lg border border-neutral-200">
@@ -209,7 +209,7 @@ export default function ArchitectureSpecModal({ isOpen, onClose }: Props) {
               <div className="p-4 bg-emerald-50 border border-emerald-200 rounded-xl">
                 <div className="flex items-center gap-2 text-xs font-bold text-emerald-900">
                   <CheckCircle className="w-4 h-4 text-emerald-600" />
-                  Strategic Value to Microsoft / Azure
+                  Illustrative deployment target — not deployed
                 </div>
                 <p className="text-xs text-emerald-800 mt-1 leading-relaxed">
                   Positions Microsoft with a category-defining creative operating system directly integrated with Azure AI,
@@ -225,9 +225,9 @@ export default function ArchitectureSpecModal({ isOpen, onClose }: Props) {
                   </div>
                 </div>
                 <div className="p-3 bg-neutral-50 rounded-lg border border-neutral-200">
-                  <div className="font-bold text-neutral-900">Clean Intellectual Property</div>
+                  <div className="font-bold text-neutral-900">Chain of Title Review Required</div>
                   <div className="text-neutral-600 mt-1">
-                    Self-contained TypeScript/Python contracts, no unauthorized dependencies, scrubbed lineage.
+                    Contributor assignments, third-party licenses, dependencies, and chain of title require documented counsel review.
                   </div>
                 </div>
               </div>
@@ -237,7 +237,7 @@ export default function ArchitectureSpecModal({ isOpen, onClose }: Props) {
 
         {/* Modal Footer */}
         <div className="p-4 border-t border-neutral-200 bg-neutral-50 flex items-center justify-between">
-          <span className="text-xs text-neutral-500">WorthWyl OS Architecture v1.0 — Acquisition Grade</span>
+          <span className="text-xs text-neutral-500">Metacognitive Mapper · Development-stage concept; not a certification</span>
           <button
             onClick={onClose}
             className="px-4 py-2 bg-neutral-900 hover:bg-neutral-800 text-white rounded-lg text-xs font-bold transition"

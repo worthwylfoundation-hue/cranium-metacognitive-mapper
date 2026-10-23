@@ -1,8 +1,11 @@
-# WorthWyl Creative OS — Full Stack Architecture & Acquisition Specification
+> **ARCHIVED HISTORICAL DRAFT. NOT THE CURRENT PRODUCT SPECIFICATION.**
+> This file contains earlier WorthWyl Creative OS concepts and unverified target-state claims. It is not evidence of deployed Azure/Kubernetes infrastructure, production readiness, clean chain of title, security certification, or implemented capabilities. Current component name: Convertible Cranium Metacognitive Mapper; product context: Convertible Cranium Justice OS.
+
+# ARCHIVED: WorthWyl Creative OS — Historical Stack Draft
 
 **Asset Class:** Cognitive Creative Operating System (IP + Architecture + Working Substrate)  
 **System Target:** Enterprise Cloud Deployment (Microsoft Azure AKS + Istio Service Mesh + Azure KeyVault)  
-**Version:** 1.0.0 (Acquisition-Ready Production Release)
+**Status:** Historical, unverified concept draft. Not a release declaration.
 
 ---
 
